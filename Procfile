@@ -1,1 +1,1 @@
-worker: python dmass.py
+eyzalts: node bot.js
